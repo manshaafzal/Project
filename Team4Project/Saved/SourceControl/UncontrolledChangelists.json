@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/natha/Documents/GitHub/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/69/1JK9O64TU4M0G4PVB8GL0U.uasset",
+				"C:/Users/natha/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/natha/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/natha/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Blueprints/Nathan/LightCharger.uasset",
+				"C:/Users/natha/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Blueprints/Nathan/LightTestWidget.uasset",
 				"C:/Users/w9046488/Documents/GitHub/project/Team4Project/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
