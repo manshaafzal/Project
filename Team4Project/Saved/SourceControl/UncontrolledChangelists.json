@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+				"F:/GithubProject/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LS/LYSAP41NWW508ZBYAKBP5N.uasset",
+				"F:/GithubProject/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3G/295B83NZJPOTSB271R43ON.uasset",
+				"F:/GithubProject/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QQ/DFP8NI83KSS11DSD2BUETE.uasset",
+				"F:/GithubProject/project/Team4Project/Content/ThirdPerson/Blueprints/BP_CubeCharacter.uasset",
+				"F:/GithubProject/project/Team4Project/Content/UI/Widget/HUD.uasset"
+=======
+>>>>>>> Stashed changes
 				"F:/10people/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"F:/10people/project/Team4Project/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"F:/10people/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1A/NPMDRRB3UWXP4PCG7CGHT4.uasset",
@@ -1214,6 +1224,10 @@
 				"C:/Users/W9046488/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Blueprints/Nathan/Nathan_PickUps/PickUp2.uasset",
 				"C:/Users/W9046488/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Blueprints/Nathan/AirLift.uasset",
 				"C:/Users/W9046488/Documents/GitHub/project/Team4Project/Content/ThirdPerson/Blueprints/BP_CubeCharacter.uasset"
+<<<<<<< Updated upstream
+=======
+>>>>>>> e392e8dcfc80319ad25f97893baafaaf43250e7c
+>>>>>>> Stashed changes
 			]
 		}
 	]
