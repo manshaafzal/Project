@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"U:/project/Team4Project/Content/ZhouYuxuan_enemy/BP_enemy.uasset",
+				"U:/project/Team4Project/Content/ZhouYuxuan_enemy/BP_Enemy_Character.uasset",
+				"U:/project/Team4Project/Content/ThirdPerson/Blueprints/BP_CubeCharacter.uasset",
 				"C:/Users/w9046488/Documents/GitHub/project/Team4Project/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
 				"C:/Users/w9046488/Documents/GitHub/project/Team4Project/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
 				"C:/Users/w9046488/Documents/GitHub/project/Team4Project/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
