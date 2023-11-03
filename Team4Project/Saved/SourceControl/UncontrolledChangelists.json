@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"U:/project/Team4Project/Content/ZhouYuxuan_enemy/BP_Enemy_Character_Ranged.uasset",
+				"U:/project/Team4Project/Content/ThirdPerson/Blueprints/Nathan/NathanProjectiles/Enemy_Bullet.uasset",
+				"U:/project/Team4Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KO/W14FSOCCHMFFIAHT3SFM16.uasset",
 				"C:/Users/83982/Desktop/project/Team4Project/Content/UI/Assest/Icon_Fire.uasset",
 				"C:/Users/83982/Desktop/project/Team4Project/Content/UI/Assest/Icon_Ice.uasset",
 				"C:/Users/83982/Desktop/project/Team4Project/Content/UI/Assest/Icon_Rock.uasset",
